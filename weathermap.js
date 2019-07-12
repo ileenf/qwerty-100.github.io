@@ -32,7 +32,7 @@ function panHome() {
   })
 }
 
-function BounceSouthAfrica() {
+function bounceSouthAfrica() {
   view.animate({
     center: southafrica,
     duration: 2000
