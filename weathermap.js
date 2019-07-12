@@ -32,10 +32,11 @@ function panHome() {
   })
 }
 
-function flyToSouthAfrica() {
+function BounceSouthAfrica() {
   view.animate({
     center: southafrica,
     duration: 2000
+    easing: bounce
   })
 }
 
