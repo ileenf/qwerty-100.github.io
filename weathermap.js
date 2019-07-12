@@ -32,7 +32,7 @@ function panHome() {
   })
 }
 
-function panSouthAfrica() {
+function flySouthAfrica() {
   view.animate({
     center: southafrica,
     duration: 2000

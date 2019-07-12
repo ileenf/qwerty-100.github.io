@@ -18,7 +18,7 @@
 
     <p>
       <button onclick="panHome()">Pan back to London</button>
-      <button onclick="panSouthAfrica()">Pan to South Africa</button>
+      <button onclick="flySouthAfrica()">Fly to South Africa</button>
 
     </p>
     <div id="map" class="map"></div>
